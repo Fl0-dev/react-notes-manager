@@ -5,3 +5,7 @@
 npm i
 npm start
 ```
+## Run Server
+```bash
+npm run dev-server
+```
